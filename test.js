@@ -85,9 +85,9 @@ function greet() {
 function changeBG() 
 {
 	//text.size(200);
-	text("Apple",100,50);
-  //var val = random(255);
-//background(val);
+	//text("Apple",100,50);
+  var val = random(255);
+background(val);
 
 }
 
